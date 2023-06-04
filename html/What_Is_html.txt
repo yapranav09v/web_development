@@ -1,0 +1,10 @@
+HTML
+hypertext markep language
+
+hypertext:- hypertext is a text ,which contains links of an another text
+
+markep :- mark something up to analyte
+
+HTML ---> structure
+CSS --> style
+javscript --> behaiver
